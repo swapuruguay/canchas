@@ -1,0 +1,19 @@
+{
+  "name": "canchas",
+  "version": "1.0.0",
+  "description": "Gestión de canchas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapuruguay/canchas.git"
+  },
+  "author": "Walter Sosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapuruguay/canchas/issues"
+  },
+  "homepage": "https://github.com/swapuruguay/canchas#readme"
+}
